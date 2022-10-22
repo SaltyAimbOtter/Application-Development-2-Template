@@ -48,7 +48,6 @@
                             <minimizeJar>false</minimizeJar>
                             <artifactSet>
                                 <includes>
-                                    <include>org.postgresql</include>
                                     <include>de.rfh.winfo.appdev2</include>
                                 </includes>
                             </artifactSet>
